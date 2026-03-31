@@ -71,8 +71,8 @@ This module focuses on understanding different types of cybercrimes such as phis
 ---
 
 ## 🔗 Useful Links
-- **Google Form (Quiz):** https://docs.google.com/forms/d/e/1FAIpQLSeF4DAjn0FeKni9G4mFIFTb-tx4xfMa8JHYSNGfnLnctQ8B6w/viewform?usp=publish-editor 
-- **GitHub Profile:** https://github.com/architgore30
+- **Google Form (Quiz):** https://docs.google.com/forms/d/e/1FAIpQLSeb1-D1SOFsIRbP1mWZG-XsGgcOIJfpxnntrCWmHrumPk-HWQ/viewform?usp=publish-editor
+- **GitHub Profile:** https://github.com/mohammad25bce10538
 
 ---
 
