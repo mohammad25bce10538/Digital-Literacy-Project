@@ -24,7 +24,7 @@ I made an infographic using Canva for the Digital Literacy project. The infograp
 
 Task 2 – Digital Portfolio
 
-I made my profiles on GitHub, Kaggle and LinkedIn for the Digital Literacy project. I also added a README file to my GitHub profile for the Digital Literacy project. This was my step towards building my online portfolio with the Digital Literacy project.
+I made my profiles on GitHub, Kaggle and LinkedIn for the Digital Literacy project. I also added educational details to my Linked in profile for the Digital Literacy project. This was my step towards building my online portfolio with the Digital Literacy project.
 
 Task 3 – Platforms
 
