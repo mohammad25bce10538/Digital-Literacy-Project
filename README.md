@@ -36,7 +36,7 @@ I wrote two emails for the Digital Literacy project. One was for requesting an a
 
 Task 5 – Cybercrime Awareness
 
-This task was about understanding fraud with the Digital Literacy project. I did a small case study on UPI/payment fraud for the Digital Literacy project. I also made a checklist on how to stay safe with the Digital Literacy project.
+This task was about understanding fraud with the Digital Literacy project. I did a small case study on Ransomware for the Digital Literacy project. I also made a checklist on how to stay safe with the Digital Literacy project.
 
 Module Summaries
 
